@@ -10,9 +10,6 @@ A full-stack e-commerce application that allows users to browse, create, update,
 - [Setup Instructions](#setup-instructions)
 - [Backend Setup](#backend-setup)
 - [Frontend Setup](#frontend-setup)
-- [API Documentation](#api-documentation)
-- [Features](#features)
-- [Environment Variables](#environment-variables)
 
 ---
 
@@ -127,7 +124,7 @@ Create a `.env` file in the Backend directory:
 ```env
 PORT=8000
 MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/Mini_Cart?appName=Cluster0
-JWT_SECRET=your_jwt_secret_key
+JWT_SECRET=you_are_hired
 ```
 
 **Note**: Replace with your actual MongoDB URI and JWT secret.
